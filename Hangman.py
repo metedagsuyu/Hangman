@@ -1,4 +1,3 @@
-#allow game against a computer( comp chooses a random word from the dictionary file
 #################################################################################################
 # Game   : Main function for game, it will be called automatically
 #          with help from source:
